@@ -1,0 +1,34 @@
+img {width:100%;clear:both;}
+* {padding:0;margin:0;}
+#hide,#konten{display:none}
+#hide,#show{padding:5px;background:#333;width:280px;text-align:center;color:white;cursor:pointer;border-radius:5px;}
+#konten{margin:10px auto}
+body{font-family:'Open Sans',arial}
+.left {float:left;padding:10px;}
+.schrol {border: 1px solid #eee; height: 300px; overflow: auto; padding: 10px; width: 280px;}
+
+#mainMenu {background-color:white;color:black;width:200px;}
+.download {padding:0;}
+
+li{
+ list-style:none;
+ padding:2;
+}
+
+
+li a {
+ display:block;
+ list-style:none;
+ text-decoration:none;
+ color:aqua;
+ width:100%;
+ border:
+}
+
+li a:hover {
+ background-color:#88c9e3;
+ color:black;
+ transition-duration:0.5s;
+ border-radius:5px
+
+}
