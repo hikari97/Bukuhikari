@@ -6,7 +6,7 @@ img {width:100%;clear:both;}
 body{font-family:'Open Sans',arial}
 .left {float:left;padding:10px;}
 .schrol {border: 1px solid #eee; height: 300px; overflow: auto; padding: 10px; width: 280px;}
-.semua-chapter
+.semua_chapter {padding:5px;background:#333;width:150px;text-align:center;color:white;cursor:pointer;border-radius:5px;}
 
 #mainMenu {background-color:white;color:black;width:200px;}
 .download {padding:0;}
