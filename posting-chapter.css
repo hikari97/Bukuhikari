@@ -5,6 +5,7 @@ img {width:100%;clear:both;}
 #konten{margin:10px auto}
 body{font-family:'Open Sans',arial}
 .left {float:left;padding:10px;}
+.right {float:right;
 .schrol {border: 1px solid #eee; height: 300px; overflow: auto; padding: 10px; width: 280px;}
 .semua_chapter {display:block;background-color:black;width:200px;text-align:center;color:white;}
 
